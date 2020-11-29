@@ -1,8 +1,8 @@
 # asyncbs4 
 
 
-[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
-[![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://badge.fury.io/py/tensorflow)
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://pypi.org/project/asyncbs4/1.0/)
+[![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://pypi.org/project/asyncbs4/1.0/)
 
 
 asyncbs4 is an asynchrounous beautiful soup library which is useful for the developers to scrap file asynchrounously.

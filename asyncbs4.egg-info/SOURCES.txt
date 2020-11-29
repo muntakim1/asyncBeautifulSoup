@@ -1,0 +1,9 @@
+README.md
+setup.py
+asyncbs4/AsyncBeautifulSoup.py
+asyncbs4/__init__.py
+asyncbs4.egg-info/PKG-INFO
+asyncbs4.egg-info/SOURCES.txt
+asyncbs4.egg-info/dependency_links.txt
+asyncbs4.egg-info/not-zip-safe
+asyncbs4.egg-info/top_level.txt
