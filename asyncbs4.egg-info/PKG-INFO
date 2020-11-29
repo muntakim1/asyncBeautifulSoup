@@ -1,10 +1,34 @@
-Metadata-Version: 1.0
+Metadata-Version: 2.1
 Name: asyncbs4
-Version: 1.0
+Version: 1.0.2
 Summary: Asynchronous BeautifulSoup Library.
 Home-page: https://github.com/muntakim1/asyncBeautifulSoup
 Author: Muntakimur rahaman
 Author-email: muntakim1104001@gmail.com
 License: MIT
-Description: UNKNOWN
+Description: # asyncbs4 
+        
+        
+        [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://pypi.org/project/asyncbs4/1.0/)
+        [![PyPI](https://badge.fury.io/py/tensorflow.svg)](https://pypi.org/project/asyncbs4/1.0/)
+        
+        
+        asyncbs4 is an asynchrounous beautiful soup library which is useful for the developers to scrap file asynchrounously.
+        
+        ## Installation
+        
+        ` pip install asyncbs4`
+        
+        
+        
+        ## Usage
+        
+        ` from asyncbs4 import AsyncBeautifulSoup as asyncbs
+        
+        url="https://facebook.com"
+        
+        soup = asyncbs.get_content(url)`
+        
 Platform: UNKNOWN
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
