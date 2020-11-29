@@ -1,10 +1,13 @@
 from setuptools import setup
+import setuptools
 setup(name='asyncBeautifulSoup',
 version='1.0',
-description='Testing installation of Package',
-url='#',
+description='Asynchronous BeautifulSoup Library.',
+url='https://github.com/muntakim1/asyncBeautifulSoup',
 author='Muntakimur rahaman',
 author_email='muntakim1104001@gmail.com',
 license='MIT',
-packages=['asyncBeautifulSoup'],
-zip_safe=False)
+packages=setuptools.find_packages(),
+zip_safe=False
+
+)
