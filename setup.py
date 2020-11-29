@@ -1,6 +1,6 @@
 from setuptools import setup
 import setuptools
-setup(name='asyncBeautifulSoup',
+setup(name='asyncbs4',
 version='1.0',
 description='Asynchronous BeautifulSoup Library.',
 url='https://github.com/muntakim1/asyncBeautifulSoup',
