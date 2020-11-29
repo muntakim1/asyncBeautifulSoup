@@ -7,7 +7,7 @@ import setuptools
 
 
 setup(name='asyncbs4',
-version='1.0.2',
+version='1.0.4',
 description='Asynchronous BeautifulSoup Library.',
 long_description=long_description,
 long_description_content_type="text/markdown",
